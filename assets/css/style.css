@@ -19,7 +19,7 @@ a {
   color: #67b0d1;
 }
 
-a:hover {
+a:hover, .title {
   color: #8ec4dd;
   text-decoration: none;
 }
