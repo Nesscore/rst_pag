@@ -14,12 +14,12 @@ body {
   color: #444444;
 }
 
-a {
+a{
   text-decoration: none;
   color: #67b0d1;
 }
 
-a:hover, .title:hover {
+a:hover {
   color: #8ec4dd;
   text-decoration: none;
 }
@@ -732,7 +732,7 @@ section {
   font-size: 18px;
 }
 
-.services .title a {
+.services .title  {
   color: #111;
 }
 
@@ -742,7 +742,7 @@ section {
   margin-bottom: 0;
 }
 
-.services .icon-box:hover .title a,
+.services .icon-box:hover .title ,
 .services .icon-box:hover .description {
   color: #fff;
 }
